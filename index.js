@@ -1,7 +1,7 @@
 export const artists = [
     {
       "id": 0,
-      "name": "Amedeo Modigliani",
+      "name": "Amedeo Modigliani", 
       "years": "1884 - 1920",
       "genre": "Expressionism",
       "nationality": "Italian",
