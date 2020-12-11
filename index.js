@@ -262,7 +262,7 @@ function removeArtist(/*Your Code Here*/){
 }
    
 
-/* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
+/* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀  
 Use addArtist to do the following: 
 1. Receive an array
 2. Add this object of information to the end of the array
