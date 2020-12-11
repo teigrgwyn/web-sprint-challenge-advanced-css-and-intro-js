@@ -337,31 +337,28 @@ The function should console.log 50 chunks of HTML code that match the structure 
 
 ‼️ You do **NOT** need to get these to display on your page, but you can copy and paste the result into your HTML file if you'd like to see what that would look like. */
 
-function getHTML(/* Code here */){
-
-    /* Code here */
-
-  }
+function getHTML(data){
+  // no clue how to start this
+  // setup temp variables to hold semantic areas, then format strings so they indent properly?
+}
 
 
 /* 💪💪💪💪💪💪 STRETCH 2: 💪💪💪💪💪💪
 Create a function called `randomize` that takes a data array as an argument and returns a the same array in a randomized order. */
 
-function randomize(/* Code here */){
-
-    /* Code here */
-
-  }
+function randomize(array){
+  // apparently different shuffle ideas, and fisher-yates is the go-to
+}
 
 
- /* 💪💪💪💪💪💪 STRETCH 3: 💪💪💪💪💪💪
- Use advanced array methods (.map, .reduce, .filer) to refactor your MVP code (create an array of all artists born in the 1900s with .filter, for example) */
-
+/* 💪💪💪💪💪💪 STRETCH 3: 💪💪💪💪💪💪
+Use advanced array methods (.map, .reduce, .filer) to refactor your MVP code (create an array of all artists born in the 1900s with .filter, for example) */
+// a good project for over the weekend; i know maps are critical knowledge to know
  
  
  
  /* 🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑*/
- function foo(){
+function foo(){
   console.log('its working');
   return 'bar';
 }
